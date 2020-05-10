@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    background: url(https://vignette.wikia.nocookie.net/gtawiki/images/e/e8/Vanilla-Unicorn-GTAVpc-by-night.jpg) no-repeat fixed;
+    background-size: cover;
+    background-position: 50%;
+    -webkit-font-smoothing: antialiased;
+}
+
+.formulario {
+    margin-top: 250px;
+    background-color: white;
+    width: 400px;
+    margin-left: 400px;
+    border-radius: 15%;
+    height: 150px;
+}
+
+.tabela {
+    margin-left: 50px;
+    padding-top: 30px;
+}
+
+.button {
+    margin-left: 300px;
+}
+
+footer {
+    position:absolute; 
+    bottom:0; 
+    width:95%;
+}
