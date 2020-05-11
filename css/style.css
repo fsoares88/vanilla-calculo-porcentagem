@@ -15,7 +15,7 @@ body {
 }
 
 img {
-    margin-top: 35%;
+    margin-top: 10%;
     width: 330px;
     height: 330px;
 }
@@ -23,7 +23,7 @@ img {
 .formulario {
     margin: 0 auto;
     background-color: white;
-    margin-top: 12%;
+    margin-top: 7%;
     width: 400px;
     border-radius: 5%;
     height: 150px;
