@@ -7,13 +7,28 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
+.logo {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: 0 auto;
+}
+
+img {
+    margin-top: 35%;
+    width: 330px;
+    height: 330px;
+}
+
 .formulario {
-    margin-top: 250px;
+    margin: 0 auto;
     background-color: white;
+    margin-top: 12%;
     width: 400px;
-    margin-left: 400px;
-    border-radius: 15%;
+    border-radius: 5%;
     height: 150px;
+    position: relative;
+    bottom: 1;
 }
 
 .tabela {
@@ -26,7 +41,15 @@ body {
 }
 
 footer {
+    margin-left: -8px;
     position:absolute; 
     bottom:0; 
-    width:95%;
+    width:100%;
+    background-color: white;
+    color: black;
+}
+a:link
+{
+text-decoration:none;
+color: black;
 }
